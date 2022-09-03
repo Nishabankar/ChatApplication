@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024379963917",
+    "project_id": "chatapplication-35202",
+    "storage_bucket": "chatapplication-35202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024379963917:android:915df47d402f63e9522344",
+        "android_client_info": {
+          "package_name": "in.nisha.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024379963917-d9mfal28ua4c8kebl9656ieamonbc9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRn1hWlc77emgVkhSqoN5Za1MSejPyc0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024379963917-d9mfal28ua4c8kebl9656ieamonbc9go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
